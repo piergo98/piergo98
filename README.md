@@ -1,76 +1,55 @@
-# Hi, I'm Pietro 👋
+# Pietro Gori
+Hello there! 👋 Welcome to my GitHub profile!
 
-I'm a robotics PhD student focusing on **model-based planning and control of linear and nonlinear switched systems**.  
+I am Pietro, a robotics PhD student working on **model-based planning and control of linear and nonlinear switched systems**.  
 
----
+I also have a strong interest in robotics and numerical optimization, and I’m excited about bringing together classical control theory with smart, data-driven solutions.
 
-## 🔬 Research Interests
-
-- **Model-based control** of linear and nonlinear switched systems  
-- **Optimal switching sequence design**  
-- **Numerical optimization for control**  
-- **Model Predictive Control (MPC)**  
-- Integration of **model-based guarantees** with **data-driven methods**
+In my spare time, I enjoy exploring new technologies, working on robotics-related projects, and experimenting with optimization and simulation tools.  
+Feel free to explore my repositories — and don’t hesitate to reach out!
 
 ---
 
-## 🚀 Current Research
+## 🌱 Skills and Interests
 
-During my PhD, I have been exploring different ways to **jointly optimize the switching sequence and the control input** of a switched system:
+### **Research Interests**
+- Model-based control of switched systems  
+- Optimal switching sequence design   
+- Continuous-time optimal control  
+- Quadrupedal locomotion & robot planning  
+- Model Predictive Control (MPC)
 
-- ✔️ **Direct optimization** of subsystem time durations + classical control inputs  
-- ✔️ **Smoothing-based reformulation** of switching conditions into a single dynamical system  
-- ✔️ **Application to quadrupedal locomotion**, where robust planning and control are essential  
+### **Programming Languages**
+- Python  
+- C++  
 
-I also developed a **numerical optimization procedure** to solve **continuous-time optimal control problems** with linear switched systems, **optimizing both control inputs and subsystem durations simultaneously**.
-
-Lately, I've been exploring the integration of **neural networks** and **learning-based methods** to further enhance switched-system controllers while preserving formal guarantees.
-
-My work aligns closely with the research directions of the **SYSCOP Lab**, especially in the context of model-based control with tailored numerical methods.
-
----
-
-## 🧠 Methods & Tools
-
-### 🛠️ Control & Optimization
-- Nonlinear optimization  
-- Direct methods for continuous optimal control  
-- Model Predictive Control (MPC)  
-- CasADi (extensive experience)
-
-### 💻 Programming
-- **Python**  
-- **C++**
-
-### 🤖 Robotics & Simulation
+### **Robotics & Optimization Tools**
 - ROS (1 & 2)  
 - Gazebo  
 - Docker  
+- CasADi  
+- Nonlinear optimization frameworks  
 
 ---
 
-## 📚 Selected Topics I Work On
+## 🚀 Notable Projects
 
-- Switched dynamical systems  
-- Continuous-time optimal control  
-- Hybrid control  
-- Quadrupedal locomotion  
-- Learning-enhanced model-based control  
+Although my work spans several areas in control, optimization, and robotics, a project I consider especially meaningful is:
 
----
+### **OCSLC**
+A numerical optimization framework to solve **continuous-time optimal control problems** with **linear switched systems** by jointly optimizing:
+- the **control input**, and  
+- the **time duration of each subsystem**  
 
-## 🌱 What I'm Exploring Now
+This approach leverages **direct optimal control techniques**, CasADi, and nonlinear programming solvers, and has been tested on challenging robotic applications such as **quadrupedal locomotion** — where solid planning and control foundations are essential.
 
-- Neural networks for control  
-- Learning-augmented switching policies  
-- Data-driven modeling with model-based guarantees  
-- Hybrid and switched MPC
+Feel free to explore the repository for more details!
 
 ---
 
-## 📫 Get in touch
+## 📫 Contact
 
-- Email: pietro.gori@phd.unipi.it   
-- LinkedIn: www.linkedin.com/in/pietro-gori-95a339202  
-- Google Scholar: [<your GS link>](https://scholar.google.com/citations?user=nG27q6IAAAAJ&hl=it&authuser=1)  
+You can reach out through:
 
+- **Email:** piergo98@gmail.com & pietro.gori@phd.unipi.it  
+- **LinkedIn:** [Pietro Gori](www.linkedin.com/in/pietro-gori-95a339202)  
