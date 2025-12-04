@@ -32,21 +32,6 @@ Feel free to explore my repositories — and don’t hesitate to reach out!
 
 ---
 
-## 🚀 Notable Projects
-
-Although my work spans several areas in control, optimization, and robotics, a project I consider especially meaningful is:
-
-### **OCSLC**
-A numerical optimization framework to solve **continuous-time optimal control problems** with **linear switched systems** by jointly optimizing:
-- the **control input**, and  
-- the **time duration of each subsystem**  
-
-This approach leverages **direct optimal control techniques**, CasADi, and nonlinear programming solvers, and has been tested on challenging robotic applications such as **quadrupedal locomotion** — where solid planning and control foundations are essential.
-
-Feel free to explore the repository for more details!
-
----
-
 ## 📫 Contact
 
 You can reach out through:
