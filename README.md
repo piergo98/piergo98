@@ -1,7 +1,7 @@
 # Pietro Gori
 Hello there! 👋 Welcome to my GitHub profile!
 
-I am Pietro, a robotics PhD student working on **model-based planning and control of linear and nonlinear switched systems**.  
+I am Pietro, a robotics PhD student at University of Pisa working on **model-based planning and control of linear and nonlinear switched systems**.  
 
 I also have a strong interest in robotics and numerical optimization, and I’m excited about bringing together classical control theory with smart, data-driven solutions.
 
